@@ -7,7 +7,7 @@ This is the official CPP SDK for Argo.
 
 ## Learn More
 
-please visit [more](https://ark.analysys.cn/docs/sdk-cpp.html)
+please visit [more](https://docs.analysys.cn/ark/integration/sdk/c++)
 
 
 ## License
