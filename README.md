@@ -1,9 +1,9 @@
 
-# Argo CPP SDK
+# Analysys CPP SDK
 
 ========
 
-This is the official CPP SDK for Argo.
+This is the official CPP SDK for Analysys.
 
 ## Learn More
 
